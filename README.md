@@ -15,6 +15,7 @@ The data for this analysis will be sourced from Kaggle, a well-known platform wh
  1. Identify the top 5 ZIP codes with the highest number of 911 calls in the dataset?
  2. Identify the top 5 townships with the highest number of 911 calls in the dataset?
  3. Have there been any observable changes in the number of 911 calls that could indicate improvements in services?
+ 4. Is there any seasonality present in the data? Additionally, can we identify any anomalies and trends?
 
 ## Used Libraries
 1. Numpy
